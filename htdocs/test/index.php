@@ -2,15 +2,11 @@
 <html>
 <body>
 
-<form action="submit.php" method="post">
-	Username:<br>
-	<input type="text" name="username" >
-	<br>
-	Password:<br>
-	<input type="text" name="password">
-	<br><br>
-	<input type="submit" value="Submit">
-</form>
+<head>
+<div>
+	<p align="right"><button type="button" onclick="window.location.href='/test/SignIn.php';">Sign In!</button></p>
+</div>
+</head>
 
 </body>
 </html>
