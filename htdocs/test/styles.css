@@ -1,14 +1,10 @@
-head {
-  background-color: #fff;
-  height: 45px;
-}
 h3 {
-	font-size: 33px;
-	padding: 0 0 3%;
+  font-size: 33px;
+  padding: 0 0 3%;
 }
 signin {
   width: 360px;
-  padding: 8% 0 0;
+  padding: 9% 0 0;
   margin: auto;
 }
 form {
@@ -33,4 +29,39 @@ form input {
   padding: 12px;
   box-sizing: border-box;
   font-size: 14px;
+}
+.top-container {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+  width: 100%;
+  top: 0;
+}
+/* Page content */
+.content {
+  padding: 16px;
+}
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+.menuMain {
+  width: 82%;
+  float: left;
+}
+.menuButtons {
+  width: 18%;
+  float: right;
 }
