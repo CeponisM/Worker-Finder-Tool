@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="styles.css">
-	<title> WFT - Home</title>
+	<title>Home - WFT</title>
 </head>
 
 <body>
 <div class="top-container">
-  <h1>Worker Finder Tool</h1>
+  <h1><a href="/test/">Worker Finder Tool</a></h1>
   <p>Individual Service Provider Discovery Tool</p>
 </div>
 

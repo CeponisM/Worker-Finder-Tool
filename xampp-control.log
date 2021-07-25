@@ -440,3 +440,31 @@
 3:59:20 PM  [main] 	Deinitializing Modules
 3:59:20 PM  [main] 	Deinitializing Control Panel
 
+4:06:20 PM  [main] 	Initializing Control Panel
+4:06:20 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:06:20 PM  [main] 	XAMPP Version: 7.3.29
+4:06:20 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:06:20 PM  [main] 	Running with Administrator rights - good!
+4:06:20 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+4:06:20 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+4:06:20 PM  [main] 	Checking for prerequisites
+4:06:20 PM  [main] 	All prerequisites found
+4:06:20 PM  [main] 	Initializing Modules
+4:06:20 PM  [main] 	The Tomcat module is disabled
+4:06:20 PM  [main] 	Enabling autostart for module "Apache"
+4:06:20 PM  [main] 	Enabling autostart for module "MySQL"
+4:06:20 PM  [main] 	Starting Check-Timer
+4:06:21 PM  [main] 	Control Panel Ready
+4:06:21 PM  [Apache] 	Autostart active: starting...
+4:06:21 PM  [Apache] 	Attempting to start Apache service...
+4:06:22 PM  [Apache] 	Status change detected: running
+4:06:22 PM  [mysql] 	Autostart active: starting...
+4:06:22 PM  [mysql] 	Attempting to start MySQL service...
+4:06:22 PM  [mysql] 	Status change detected: running
+4:45:11 PM  [mysql] 	Attempting to stop MySQL service...
+4:45:11 PM  [Apache] 	Attempting to stop Apache service...
+4:45:12 PM  [mysql] 	Status change detected: stopped
+4:45:14 PM  [Apache] 	Status change detected: stopped
+4:45:15 PM  [main] 	Deinitializing Modules
+4:45:15 PM  [main] 	Deinitializing Control Panel
+

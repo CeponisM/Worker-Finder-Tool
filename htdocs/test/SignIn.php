@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" href="styles.css">
-<title> Sign-In</title>
+<title>WFT Sign-In</title>
 </head>
 <body>
 
 <div class="top-container">
-  <h1>Worker Finder Tool</h1>
+  <h1><a href="/test/">Worker Finder Tool</a></h1>
   <p>Individual Service Provider Discovery Tool</p>
 </div>
 
@@ -27,7 +27,7 @@
 
 <form class="signin" action="submit.php" method="post">
 	<div class="signIn-header">
-	<h3>Sign in to your account</h3>
+		<h3>Sign in to your account</h3>
 	</div>
 	Username:<br>
 	<input type="text" name="username" >

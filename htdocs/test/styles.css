@@ -7,6 +7,11 @@ signin {
   padding: 9% 0 0;
   margin: auto;
 }
+account {
+  width: 360px;
+  padding: 9% 0 0;
+  margin: auto;
+}
 form {
   margin-top: -31px;
   margin-bottom: 26px;
@@ -106,4 +111,14 @@ a:active {
   font-family: "Roboto", sans-serif;
   text-decoration: ultra-expanded;
   padding: 33px;
+}
+#accountLeft {
+  width: 58%;
+  float: left;
+  display:inline-block;
+}
+#accountRight {
+  width: 42%;
+  float: right;
+  display:inline-block;
 }
