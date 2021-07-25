@@ -11,7 +11,7 @@ form {
   margin-top: -31px;
   margin-bottom: 26px;
   position: relative;
-  z-index: 1;
+  z-index: 3;
   background: #FFFFFF;
   max-width: 360px;
   margin: 0 auto 100px;
@@ -35,33 +35,75 @@ form input {
   padding: 30px;
   text-align: center;
 }
-/* Style the header */
 .header {
   padding: 10px 16px;
   background: #555;
   color: #f1f1f1;
+  z-index: 1;
   width: 100%;
   top: 0;
 }
-/* Page content */
-.content {
+#content {
   padding: 16px;
 }
-/* The sticky class is added to the header with JS when it reaches its scroll position */
+#sideBar {
+  width: 18%;
+  float: left;
+  display:inline-block;
+  vertical-align:top;
+  border-style: groove;
+  text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	text-decoration: none;
+}
+#mainBar {
+  width: 81%;
+  float: right;
+  display:inline-block;
+  vertical-align:top;
+}
 .sticky {
   position: fixed;
   top: 0;
   width: 100%;
 }
-/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 102px;
-}
-.menuMain {
+#menuMain {
   width: 82%;
   float: left;
+  z-index: 1;
 }
-.menuButtons {
+#menuButtons {
   width: 18%;
   float: right;
+  display:inline-block;
+  z-index: 1;
+  padding: 3px;
+}
+#serviceHeaderBox {
+  width: 100%;
+  height: 45px;
+  color: gray;
+}
+.serviceBox {
+  padding: 10px;
+  border-style: groove;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  font-family: "Roboto", sans-serif;
+}
+.announcement {
+  text-align: center;
+  font-size: 33px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: ultra-expanded;
+  padding: 33px;
 }

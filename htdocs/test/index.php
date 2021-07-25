@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<link rel="stylesheet" href="styles.css">
 	<title> WFT - Home</title>
@@ -8,187 +8,91 @@
 <body>
 <div class="top-container">
   <h1>Worker Finder Tool</h1>
-  <p></p>
+  <p>Individual Service Provider Discovery Tool</p>
 </div>
 
-<div class="header" id="myHeader">
-	<div class="menuMain">
+<div class="header" id="menuBar">
+	<div id="menuMain">
 	</div>
-	<div class="menuButtons">
+	<div id="menuButtons">
 		<button type="button" onclick="window.location.href='/test/SignIn.php';">Sign In</button>
+		<button type="button" onclick="window.location.href='/test/Join.php';">Join</button>
 		<button type="button" onclick="window.location.href='/test/Account.php';">Account</button>
 	</div>
 	<br style="clear:both;"/>
 </div>
-test 1
-<br>
-test 2
-<br>
-test 3
-<br>
-test 4
-<br>
-test 5
-<br>
-test 6
-<br>
-test 7
-<br>
-test 8
-<br>
-test 9
-<br>
-test 10
-<br>
-test 11
-<br>
-test 12
-<br>
-test 13
-<br>
-test 14
-<br>
-test 15
-<br>
-test 16
-<br>
-test 17
-<br>
-test 18
-<br>
 
-<br>
-<br>
+<div id="content">
+	<div id="sideBar">
+		<div style="padding: 12px">
+			<h2>Catagories:</h2><br>
+			<a href="#">Vehicles</a><br>
+			<a href="#">Home Improvement</a><br>
+			<a href="#">Demolition</a><br>
+			<a href="#">Construction</a><br>
+			<a href="#">Electricity</a><br>
+			<a href="#">Plumbing</a><br>
+			<a href="#">Education</a><br>
+			<a href="#">Analysis</a><br>
+			<a href="#">Website</a><br>
+			<a href="#">Culinary</a><br>
+		</div>
+	</div>
 
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-h
+	<div id="mainBar">
+		
+		<div id="serviceHeaderBox">
+			<p>Service Name, Service Type, Provider, Wage, Rating</p>
+		</div>
+		
+		<div class="serviceBox">
+			<p>James's Lawn Mowing, Yard Maintenance, James Brown, $50/hr, 4.96/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Tom's Paving, Driveway Resealing, Tom El Ron Jr, $66/hr, 5/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Jerrys Towing, Vehicle Towing, Jarred, $24/hr, 4.7/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>James's Lawn Mowing, Yard Maintenance, James Brown, $50/hr, 4.96/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Tom's Paving, Driveway Resealing, Tom El Ron Jr, $66/hr, 5/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		<div class="serviceBox">
+			<p>Example, Example, Example, $XX/hr, X.X/5</p>
+		</div>
+		
+		
+		
+		
+		
+	</div>
+</div>
 
 <script>
 window.onscroll = function() {myFunction()};
 
-var header = document.getElementById("myHeader");
+var header = document.getElementById("menuBar");
 var sticky = header.offsetTop;
 
 function myFunction() {
