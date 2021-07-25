@@ -1,0 +1,356 @@
+11:30:05 PM  [main] 	Initializing Control Panel
+11:30:05 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:30:05 PM  [main] 	XAMPP Version: 7.3.29
+11:30:05 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:30:05 PM  [main] 	Running with Administrator rights - good!
+11:30:05 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:30:05 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:30:05 PM  [main] 	Checking for prerequisites
+11:30:05 PM  [main] 	All prerequisites found
+11:30:05 PM  [main] 	Initializing Modules
+11:30:05 PM  [Apache] 	Apache Service detected with wrong path
+11:30:05 PM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:30:05 PM  [Apache] 	Uninstall/disable the other service manually first
+11:30:05 PM  [Apache] 	Found Path: "V:\program files\xampp\apache\bin\httpd.exe" -k runservice
+11:30:05 PM  [Apache] 	Expected Path: "v:\program files\xampp\worker-finder-tool\apache\bin\httpd.exe" -k runservice
+11:30:05 PM  [mysql] 	MySQL Service detected with wrong path
+11:30:05 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:30:05 PM  [mysql] 	Uninstall/disable the other service manually first
+11:30:05 PM  [mysql] 	Found Path: "V:\program files\xampp\mysql\bin\mysqld.exe" --defaults-file="v:\program files\xampp\mysql\bin\my.ini" mysql
+11:30:05 PM  [mysql] 	Expected Path: v:\program files\xampp\worker-finder-tool\mysql\bin\mysqld.exe --defaults-file=v:\program files\xampp\worker-finder-tool\mysql\bin\my.ini mysql
+11:30:05 PM  [main] 	The Tomcat module is disabled
+11:30:05 PM  [main] 	Starting Check-Timer
+11:30:05 PM  [main] 	Control Panel Ready
+11:30:08 PM  [Apache] 	Attempting to start Apache service...
+11:30:08 PM  [mysql] 	Attempting to start MySQL service...
+11:30:24 PM  [main] 	Deinitializing Modules
+11:30:24 PM  [main] 	Deinitializing Control Panel
+
+11:19:04 PM  [main] 	Initializing Control Panel
+11:19:04 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:19:04 PM  [main] 	XAMPP Version: 7.3.29
+11:19:04 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:19:04 PM  [main] 	Running with Administrator rights - good!
+11:19:04 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:19:04 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:19:04 PM  [main] 	Checking for prerequisites
+11:19:04 PM  [main] 	All prerequisites found
+11:19:04 PM  [main] 	Initializing Modules
+11:19:04 PM  [Apache] 	Apache Service detected with wrong path
+11:19:04 PM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:19:04 PM  [Apache] 	Uninstall/disable the other service manually first
+11:19:04 PM  [Apache] 	Found Path: "V:\program files\xampp\apache\bin\httpd.exe" -k runservice
+11:19:04 PM  [Apache] 	Expected Path: "v:\program files\xampp\worker-finder-tool\apache\bin\httpd.exe" -k runservice
+11:19:04 PM  [mysql] 	MySQL Service detected with wrong path
+11:19:04 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:19:04 PM  [mysql] 	Uninstall/disable the other service manually first
+11:19:04 PM  [mysql] 	Found Path: "V:\program files\xampp\mysql\bin\mysqld.exe" --defaults-file="v:\program files\xampp\mysql\bin\my.ini" mysql
+11:19:04 PM  [mysql] 	Expected Path: v:\program files\xampp\worker-finder-tool\mysql\bin\mysqld.exe --defaults-file=v:\program files\xampp\worker-finder-tool\mysql\bin\my.ini mysql
+11:19:04 PM  [main] 	The Tomcat module is disabled
+11:19:04 PM  [main] 	Starting Check-Timer
+11:19:04 PM  [main] 	Control Panel Ready
+11:19:05 PM  [Apache] 	Attempting to start Apache service...
+11:19:06 PM  [mysql] 	Attempting to start MySQL service...
+11:19:16 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\mysql"
+11:29:52 PM  [Apache] 	Attempting to start Apache service...
+11:29:54 PM  [Apache] 	Attempting to start Apache service...
+11:30:24 PM  [main] 	Deinitializing Modules
+11:30:24 PM  [main] 	Deinitializing Control Panel
+
+11:31:21 PM  [main] 	Initializing Control Panel
+11:31:21 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:31:21 PM  [main] 	XAMPP Version: 7.3.29
+11:31:21 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:31:21 PM  [main] 	Running with Administrator rights - good!
+11:31:21 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:31:21 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:31:21 PM  [main] 	Checking for prerequisites
+11:31:21 PM  [main] 	All prerequisites found
+11:31:21 PM  [main] 	Initializing Modules
+11:31:21 PM  [Apache] 	Apache Service detected with wrong path
+11:31:21 PM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:31:21 PM  [Apache] 	Uninstall/disable the other service manually first
+11:31:21 PM  [Apache] 	Found Path: "V:\program files\xampp\apache\bin\httpd.exe" -k runservice
+11:31:21 PM  [Apache] 	Expected Path: "v:\program files\xampp\worker-finder-tool\apache\bin\httpd.exe" -k runservice
+11:31:21 PM  [mysql] 	MySQL Service detected with wrong path
+11:31:21 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:31:21 PM  [mysql] 	Uninstall/disable the other service manually first
+11:31:21 PM  [mysql] 	Found Path: "V:\program files\xampp\mysql\bin\mysqld.exe" --defaults-file="v:\program files\xampp\mysql\bin\my.ini" mysql
+11:31:21 PM  [mysql] 	Expected Path: v:\program files\xampp\worker-finder-tool\mysql\bin\mysqld.exe --defaults-file=v:\program files\xampp\worker-finder-tool\mysql\bin\my.ini mysql
+11:31:21 PM  [main] 	The Tomcat module is disabled
+11:31:21 PM  [main] 	Starting Check-Timer
+11:31:21 PM  [main] 	Control Panel Ready
+11:31:22 PM  [Apache] 	Attempting to start Apache service...
+11:31:40 PM  [mysql] 	Attempting to start MySQL service...
+11:32:04 PM  [main] 	Deinitializing Modules
+11:32:04 PM  [main] 	Deinitializing Control Panel
+
+11:32:34 PM  [main] 	Initializing Control Panel
+11:32:34 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:32:34 PM  [main] 	XAMPP Version: 7.3.29
+11:32:34 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:32:34 PM  [main] 	Running with Administrator rights - good!
+11:32:34 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:32:34 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:32:34 PM  [main] 	Checking for prerequisites
+11:32:34 PM  [main] 	All prerequisites found
+11:32:34 PM  [main] 	Initializing Modules
+11:32:34 PM  [Apache] 	Apache Service detected with wrong path
+11:32:34 PM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:32:34 PM  [Apache] 	Uninstall/disable the other service manually first
+11:32:34 PM  [Apache] 	Found Path: "V:\program files\xampp\apache\bin\httpd.exe" -k runservice
+11:32:34 PM  [Apache] 	Expected Path: "v:\program files\xampp\worker-finder-tool\apache\bin\httpd.exe" -k runservice
+11:32:34 PM  [mysql] 	MySQL Service detected with wrong path
+11:32:34 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:32:34 PM  [mysql] 	Uninstall/disable the other service manually first
+11:32:34 PM  [mysql] 	Found Path: "V:\program files\xampp\mysql\bin\mysqld.exe" --defaults-file="v:\program files\xampp\mysql\bin\my.ini" mysql
+11:32:34 PM  [mysql] 	Expected Path: v:\program files\xampp\worker-finder-tool\mysql\bin\mysqld.exe --defaults-file=v:\program files\xampp\worker-finder-tool\mysql\bin\my.ini mysql
+11:32:34 PM  [main] 	The Tomcat module is disabled
+11:32:34 PM  [main] 	Enabling autostart for module "Apache"
+11:32:34 PM  [main] 	Enabling autostart for module "MySQL"
+11:32:34 PM  [main] 	Starting Check-Timer
+11:32:34 PM  [main] 	Control Panel Ready
+11:32:35 PM  [Apache] 	Autostart active: starting...
+11:32:35 PM  [Apache] 	Attempting to start Apache service...
+11:32:35 PM  [mysql] 	Autostart active: starting...
+11:32:35 PM  [mysql] 	Attempting to start MySQL service...
+11:32:51 PM  [main] 	Deinitializing Modules
+11:32:51 PM  [main] 	Deinitializing Control Panel
+
+11:32:56 PM  [main] 	Initializing Control Panel
+11:32:56 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:32:56 PM  [main] 	XAMPP Version: 7.3.29
+11:32:56 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:32:56 PM  [main] 	Running with Administrator rights - good!
+11:32:56 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:32:56 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:32:56 PM  [main] 	Checking for prerequisites
+11:32:56 PM  [main] 	All prerequisites found
+11:32:56 PM  [main] 	Initializing Modules
+11:32:56 PM  [Apache] 	Apache Service detected with wrong path
+11:32:56 PM  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:32:56 PM  [Apache] 	Uninstall/disable the other service manually first
+11:32:56 PM  [Apache] 	Found Path: "V:\program files\xampp\apache\bin\httpd.exe" -k runservice
+11:32:56 PM  [Apache] 	Expected Path: "v:\program files\xampp\worker-finder-tool\apache\bin\httpd.exe" -k runservice
+11:32:56 PM  [mysql] 	MySQL Service detected with wrong path
+11:32:56 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:32:56 PM  [mysql] 	Uninstall/disable the other service manually first
+11:32:56 PM  [mysql] 	Found Path: "V:\program files\xampp\mysql\bin\mysqld.exe" --defaults-file="v:\program files\xampp\mysql\bin\my.ini" mysql
+11:32:56 PM  [mysql] 	Expected Path: v:\program files\xampp\worker-finder-tool\mysql\bin\mysqld.exe --defaults-file=v:\program files\xampp\worker-finder-tool\mysql\bin\my.ini mysql
+11:32:56 PM  [main] 	The Tomcat module is disabled
+11:32:56 PM  [main] 	Enabling autostart for module "Apache"
+11:32:56 PM  [main] 	Enabling autostart for module "MySQL"
+11:32:56 PM  [main] 	Starting Check-Timer
+11:32:56 PM  [main] 	Control Panel Ready
+11:32:56 PM  [Apache] 	Autostart active: starting...
+11:32:56 PM  [Apache] 	Attempting to start Apache service...
+11:32:56 PM  [mysql] 	Autostart active: starting...
+11:32:56 PM  [mysql] 	Attempting to start MySQL service...
+11:32:57 PM  [Apache] 	Attempting to start Apache service...
+11:33:04 PM  [main] 	Executing "services.msc"
+11:33:57 PM  [Apache] 	Attempting to start Apache service...
+11:34:13 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\apache"
+11:34:55 PM  [Apache] 	Uninstalling service...
+11:34:55 PM  [Apache] 	Successful!
+11:34:59 PM  [mysql] 	Uninstalling service...
+11:34:59 PM  [mysql] 	Successful!
+11:35:02 PM  [mysql] 	Installing service...
+11:35:02 PM  [mysql] 	Successful!
+11:35:03 PM  [Apache] 	Installing service...
+11:35:04 PM  [Apache] 	Successful!
+11:35:05 PM  [Apache] 	Attempting to start Apache service...
+11:35:40 PM  [Apache] 	Attempting to start Apache service...
+11:35:49 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\mysql"
+11:36:09 PM  [mysql] 	Status change detected: running
+11:36:14 PM  [mysql] 	Status change detected: stopped
+11:36:14 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:36:14 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:36:14 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:36:14 PM  [mysql] 	Press the Logs button to view error logs and check
+11:36:14 PM  [mysql] 	the Windows Event Viewer for more clues
+11:36:14 PM  [mysql] 	If you need more help, copy and post this
+11:36:14 PM  [mysql] 	entire log window on the forums
+11:37:54 PM  [mysql] 	Attempting to start MySQL service...
+11:37:55 PM  [mysql] 	Status change detected: running
+11:37:57 PM  [Apache] 	Attempting to start Apache service...
+11:38:00 PM  [mysql] 	Status change detected: stopped
+11:38:00 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:38:00 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:38:00 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:38:00 PM  [mysql] 	Press the Logs button to view error logs and check
+11:38:00 PM  [mysql] 	the Windows Event Viewer for more clues
+11:38:00 PM  [mysql] 	If you need more help, copy and post this
+11:38:00 PM  [mysql] 	entire log window on the forums
+11:38:18 PM  [main] 	Deinitializing Modules
+11:38:18 PM  [main] 	Deinitializing Control Panel
+
+11:39:00 PM  [main] 	Initializing Control Panel
+11:39:00 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:39:00 PM  [main] 	XAMPP Version: 7.3.29
+11:39:00 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:39:00 PM  [main] 	Running with Administrator rights - good!
+11:39:00 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:39:00 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:39:00 PM  [main] 	Checking for prerequisites
+11:39:00 PM  [main] 	All prerequisites found
+11:39:00 PM  [main] 	Initializing Modules
+11:39:00 PM  [main] 	The Tomcat module is disabled
+11:39:00 PM  [main] 	Enabling autostart for module "Apache"
+11:39:00 PM  [main] 	Enabling autostart for module "MySQL"
+11:39:00 PM  [main] 	Starting Check-Timer
+11:39:00 PM  [main] 	Control Panel Ready
+11:39:01 PM  [Apache] 	Autostart active: starting...
+11:39:01 PM  [Apache] 	Attempting to start Apache service...
+11:39:01 PM  [mysql] 	Autostart active: starting...
+11:39:01 PM  [mysql] 	Attempting to start MySQL service...
+11:39:02 PM  [mysql] 	Status change detected: running
+11:39:07 PM  [mysql] 	Status change detected: stopped
+11:39:07 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:39:07 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:39:07 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:39:07 PM  [mysql] 	Press the Logs button to view error logs and check
+11:39:07 PM  [mysql] 	the Windows Event Viewer for more clues
+11:39:07 PM  [mysql] 	If you need more help, copy and post this
+11:39:07 PM  [mysql] 	entire log window on the forums
+11:39:58 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\"
+11:40:17 PM  [main] 	Executing "services.msc"
+11:40:57 PM  [main] 	Executing "services.msc"
+11:41:04 PM  [Apache] 	Uninstalling service...
+11:41:04 PM  [Apache] 	Successful!
+11:41:06 PM  [mysql] 	Uninstalling service...
+11:41:06 PM  [mysql] 	Successful!
+11:41:11 PM  [Apache] 	Attempting to start Apache app...
+11:41:11 PM  [Apache] 	Status change detected: running
+11:41:12 PM  [Apache] 	Status change detected: stopped
+11:41:12 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:41:12 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:41:12 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:41:12 PM  [Apache] 	Press the Logs button to view error logs and check
+11:41:12 PM  [Apache] 	the Windows Event Viewer for more clues
+11:41:12 PM  [Apache] 	If you need more help, copy and post this
+11:41:12 PM  [Apache] 	entire log window on the forums
+11:41:26 PM  [Apache] 	Installing service...
+11:41:27 PM  [Apache] 	Successful!
+11:41:28 PM  [mysql] 	Installing service...
+11:41:28 PM  [mysql] 	Successful!
+11:41:29 PM  [Apache] 	Attempting to start Apache service...
+11:41:33 PM  [mysql] 	Attempting to start MySQL service...
+11:41:33 PM  [mysql] 	Status change detected: running
+11:41:38 PM  [mysql] 	Status change detected: stopped
+11:41:38 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:41:38 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:41:38 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:41:38 PM  [mysql] 	Press the Logs button to view error logs and check
+11:41:38 PM  [mysql] 	the Windows Event Viewer for more clues
+11:41:38 PM  [mysql] 	If you need more help, copy and post this
+11:41:38 PM  [mysql] 	entire log window on the forums
+11:41:48 PM  [Apache] 	Attempting to start Apache service...
+11:42:55 PM  [main] 	Deinitializing Modules
+11:42:55 PM  [main] 	Deinitializing Control Panel
+
+11:43:28 PM  [main] 	Initializing Control Panel
+11:43:28 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:43:28 PM  [main] 	XAMPP Version: 7.3.29
+11:43:28 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:43:28 PM  [main] 	Running with Administrator rights - good!
+11:43:28 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:43:28 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:43:28 PM  [main] 	Checking for prerequisites
+11:43:28 PM  [main] 	All prerequisites found
+11:43:28 PM  [main] 	Initializing Modules
+11:43:28 PM  [main] 	The Tomcat module is disabled
+11:43:28 PM  [main] 	Enabling autostart for module "Apache"
+11:43:28 PM  [main] 	Enabling autostart for module "MySQL"
+11:43:28 PM  [main] 	Starting Check-Timer
+11:43:28 PM  [main] 	Control Panel Ready
+11:43:28 PM  [Apache] 	Autostart active: starting...
+11:43:28 PM  [Apache] 	Attempting to start Apache service...
+11:43:29 PM  [mysql] 	Autostart active: starting...
+11:43:29 PM  [mysql] 	Attempting to start MySQL service...
+11:43:29 PM  [mysql] 	Status change detected: running
+11:43:32 PM  [Apache] 	Attempting to start Apache service...
+11:43:34 PM  [mysql] 	Status change detected: stopped
+11:43:34 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:43:34 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:43:34 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:43:34 PM  [mysql] 	Press the Logs button to view error logs and check
+11:43:34 PM  [mysql] 	the Windows Event Viewer for more clues
+11:43:34 PM  [mysql] 	If you need more help, copy and post this
+11:43:34 PM  [mysql] 	entire log window on the forums
+11:43:37 PM  [Apache] 	Attempting to start Apache service...
+11:43:44 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\apache"
+11:45:57 PM  [Apache] 	Attempting to start Apache service...
+11:49:29 PM  [main] 	Deinitializing Modules
+11:49:29 PM  [main] 	Deinitializing Control Panel
+
+11:50:43 PM  [main] 	Initializing Control Panel
+11:50:43 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:50:43 PM  [main] 	XAMPP Version: 7.3.29
+11:50:43 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:50:43 PM  [main] 	Running with Administrator rights - good!
+11:50:43 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:50:43 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:50:43 PM  [main] 	Checking for prerequisites
+11:50:43 PM  [main] 	All prerequisites found
+11:50:43 PM  [main] 	Initializing Modules
+11:50:43 PM  [main] 	The Tomcat module is disabled
+11:50:43 PM  [main] 	Enabling autostart for module "Apache"
+11:50:43 PM  [main] 	Enabling autostart for module "MySQL"
+11:50:43 PM  [main] 	Starting Check-Timer
+11:50:43 PM  [main] 	Control Panel Ready
+11:50:44 PM  [Apache] 	Autostart active: starting...
+11:50:44 PM  [Apache] 	Attempting to start Apache service...
+11:50:44 PM  [mysql] 	Autostart active: starting...
+11:50:44 PM  [mysql] 	Attempting to start MySQL service...
+11:50:45 PM  [mysql] 	Status change detected: running
+11:50:50 PM  [mysql] 	Status change detected: stopped
+11:50:50 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:50:50 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:50:50 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:50:50 PM  [mysql] 	Press the Logs button to view error logs and check
+11:50:50 PM  [mysql] 	the Windows Event Viewer for more clues
+11:50:50 PM  [mysql] 	If you need more help, copy and post this
+11:50:50 PM  [mysql] 	entire log window on the forums
+11:55:32 PM  [main] 	Deinitializing Modules
+11:55:32 PM  [main] 	Deinitializing Control Panel
+
+11:56:04 PM  [main] 	Initializing Control Panel
+11:56:04 PM  [main] 	Windows Version:  Enterprise  64-bit
+11:56:04 PM  [main] 	XAMPP Version: 7.3.29
+11:56:04 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:56:04 PM  [main] 	Running with Administrator rights - good!
+11:56:04 PM  [main] 	XAMPP Installation Directory: "v:\program files\xampp\worker-finder-tool\"
+11:56:04 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:56:04 PM  [main] 	Checking for prerequisites
+11:56:04 PM  [main] 	All prerequisites found
+11:56:04 PM  [main] 	Initializing Modules
+11:56:04 PM  [main] 	The Tomcat module is disabled
+11:56:04 PM  [main] 	Enabling autostart for module "Apache"
+11:56:04 PM  [main] 	Enabling autostart for module "MySQL"
+11:56:04 PM  [main] 	Starting Check-Timer
+11:56:04 PM  [main] 	Control Panel Ready
+11:56:05 PM  [Apache] 	Autostart active: starting...
+11:56:05 PM  [Apache] 	Attempting to start Apache service...
+11:56:05 PM  [Apache] 	Status change detected: running
+11:56:05 PM  [mysql] 	Autostart active: starting...
+11:56:05 PM  [mysql] 	Attempting to start MySQL service...
+11:56:06 PM  [mysql] 	Status change detected: running
+11:56:11 PM  [mysql] 	Status change detected: stopped
+11:56:11 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:56:11 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:56:11 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:56:11 PM  [mysql] 	Press the Logs button to view error logs and check
+11:56:11 PM  [mysql] 	the Windows Event Viewer for more clues
+11:56:11 PM  [mysql] 	If you need more help, copy and post this
+11:56:11 PM  [mysql] 	entire log window on the forums
+11:56:24 PM  [main] 	Executing "v:\program files\xampp\worker-finder-tool\mysql"
+11:58:05 PM  [mysql] 	Attempting to start MySQL service...
+11:58:05 PM  [mysql] 	Status change detected: running
+12:00:09 AM  [mysql] 	Attempting to stop MySQL service...
+12:00:10 AM  [Apache] 	Attempting to stop Apache service...
+12:00:10 AM  [Apache] 	Attempting to stop Apache service...
+12:00:10 AM  [mysql] 	Status change detected: stopped
+12:00:13 AM  [Apache] 	Status change detected: stopped
+12:00:13 AM  [main] 	Deinitializing Modules
+12:00:13 AM  [main] 	Deinitializing Control Panel
+
